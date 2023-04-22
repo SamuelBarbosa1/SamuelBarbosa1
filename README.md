@@ -26,4 +26,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pewiebe" alt="pewiebe" /></a> </p>
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/pewiebe/pewiebe/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SamuelBarbosa1/SamuelBarbosa1/blob/output/github-contribution-grid-snake.gif)

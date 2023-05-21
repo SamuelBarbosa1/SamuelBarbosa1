@@ -8,6 +8,9 @@
 
 entrem em contato comigo pro aqui: **samuelbarbosa2001oliveira@gmail.com**
 
+Aqui meu outro GITHUB lá eu coloco vários projetos la deste web sites até jogos feitos por mim e projetos feito no meu curso no Senai ou Alura.
+Link: https://github.com/pewiebe
+
 <h3 align="left">Conecte-se Comigo</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel barbosa" height="30" width="40" /></a>

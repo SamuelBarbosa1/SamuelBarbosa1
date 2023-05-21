@@ -2,7 +2,12 @@
 <h1 align="center">Oiii 👋, Eu sou Samuel e sou do Brasil</h1>
 <h3 align="center">Estou começando a entrar no mundo Back-End</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelbarbosa1&label=Profile%20views&color=0e75b6&style=flat" alt="samuelbarbosa1" /> </p>
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelBarbosa1}/count.svg" /></p> 
+<br>
+</div>
 
 - 🌱 Estou aprendendo no momento **C# .NET, TYPESCRIPT, JAVASCRIPT, SQL SERVER,T-SQL ASP.NET, AZURE**
 

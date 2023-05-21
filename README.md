@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelbarbosa1&label=Profile%20views&color=0e75b6&style=flat" alt="samuelbarbosa1" /> </p>
 
-- 🌱 Estou aprendendo no momento **C# .NET, TYPESCRIPT, JAVASCRIPT, SQL SERVER,T-SQL ASP.NET**
+- 🌱 Estou aprendendo no momento **C# .NET, TYPESCRIPT, JAVASCRIPT, SQL SERVER,T-SQL ASP.NET, AZURE**
 
 entrem em contato comigo pro aqui: **samuelbarbosa2001oliveira@gmail.com**
 

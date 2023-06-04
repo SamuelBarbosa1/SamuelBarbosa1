@@ -1,35 +1,41 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-<h1 align="center">Oiii 👋, Eu sou Samuel e sou do Brasil</h1>
-<h3 align="center">Estou começando a entrar no mundo Back-End</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70F70&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
- <div align="center">
+# Olá! Eu sou o Samuel Barbosa :smile: :books: :globe_with_meridians:
+
+ ## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
+
+<div>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Dotnet-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+
+ ## :books: Tecnologias que também uso com frequência ##
+  <img  src="https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
+  <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
+  <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://user-images.githubusercontent.com/85856457/200485239-6d28d10b-7332-4866-9c95-56cd6890b369.PNG" width="150px" align="right" borderRadius="100px" />  
+</div>
+
+## :white_check_mark: Minhas estatísticas ##
+
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelBarbosa1&theme=solarized_dark)](#)
+
+# Obrigado por visitar o meu perfil :wave:
+
+### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelBarbosa1}/count.svg" /></p> 
 <br>
 </div>
 
-- 🌱 Estou aprendendo no momento **C# .NET, TYPESCRIPT, JAVASCRIPT, SQL SERVER,T-SQL ASP.NET, AZURE**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-entrem em contato comigo pro aqui: **samuelbarbosa2001oliveira@gmail.com**
-
-Aqui meu outro GITHUB lá eu coloco vários projetos la deste web sites até jogos feitos por mim e projetos feito no meu curso no Senai ou Alura.
-Link: https://github.com/pewiebe
-
-<h3 align="left">Conecte-se Comigo</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samuel barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel barbosa" height="30" width="40" /></a>
-<a href="https://instagram.com/samu_barbosa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samu_barbosa1" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelbarbosa1&show_icons=true&locale=en&layout=compact" alt="samuelbarbosa1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelbarbosa1&show_icons=true&locale=en" alt="samuelbarbosa1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbarbosa1&" alt="samuelbarbosa1" /></p>
-
-
-
+Aproveite e me encontre nas redes sociais:  
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-barbosa-36b6b7229/) 

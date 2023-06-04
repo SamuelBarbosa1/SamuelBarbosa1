@@ -7,7 +7,6 @@
  ## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
 
 <div>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
    <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
    <img  src="https://img.shields.io/badge/Dotnet-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -18,7 +17,8 @@
   <img  src="https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
   <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
   <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
-   <img src="https://user-images.githubusercontent.com/85856457/200485239-6d28d10b-7332-4866-9c95-56cd6890b369.PNG" width="150px" align="right" borderRadius="100px" />  
+  <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
+ <img src="https://github.com/SamuelBarbosa1/SamuelBarbosa1/assets/130667350/b00ca39c-0c07-4c21-b8ed-121d01c3c17e" width="150px" align="right" borderRadius="100px" />  
 </div>
 
 ## :white_check_mark: Minhas estatísticas ##
@@ -39,3 +39,5 @@
 
 Aproveite e me encontre nas redes sociais:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-barbosa-36b6b7229/) 
+
+

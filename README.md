@@ -13,6 +13,15 @@
    <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
    <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 
+ #####  Contatos:
+
+<div > 
+  <a href = "samuelbarbosa2001oliveira@gmail.com
+"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samueel-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/samu_barbosa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href=""></a> 
+ 
  ## :books: Tecnologias que também uso com frequência ##
   <img  src="https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
   <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
@@ -37,7 +46,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-Aproveite e me encontre nas redes sociais:  
-[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-barbosa-36b6b7229/) 
+
 
 

@@ -8,8 +8,7 @@
 
 <div>
    <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
-   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
-   <img  src="https://img.shields.io/badge/Dotnet-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />    
    <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
    <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
  

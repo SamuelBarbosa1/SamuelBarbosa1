@@ -4,7 +4,7 @@
 
 # Olá! Eu sou o Samuel Barbosa :smile: :books: :globe_with_meridians:
 
- ## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
+## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
 
 <div>
    <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -12,9 +12,9 @@
    <img  src="https://img.shields.io/badge/Dotnet-007ACC?style=for-the-badge&logo=dotnet&logoColor=white" />
    <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
    <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
-
- #####  Contatos:
-
+ 
+#####  Contatos:
+ 
 <div > 
    <a href = "mailto:samuelbarbosa2001oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samueel-barbosa-36b6b7229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -27,6 +27,7 @@
   <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
  <img src="https://github.com/SamuelBarbosa1/SamuelBarbosa1/assets/130667350/b00ca39c-0c07-4c21-b8ed-121d01c3c17e" width="150px" align="right" borderRadius="100px" />  
+
 </div>
 
 ## :white_check_mark: Minhas estatísticas ##

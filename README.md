@@ -30,9 +30,9 @@
 </div>
 
 ## :white_check_mark: Minhas estatísticas ##
-
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelBarbosa1&theme=solarized_dark)](#)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBarbosa1&show_icons=true&locale=en&layout=compact" alt="SamuelBarbosa1" /></p>
+   
 # Obrigado por visitar o meu perfil :wave:
 
 ### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.

@@ -31,7 +31,8 @@
 
 ## :white_check_mark: Minhas estatísticas ##
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelBarbosa1&theme=solarized_dark)](#)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBarbosa1&show_icons=true&locale=en&layout=compact" alt="SamuelBarbosa1" /></p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SamuelBarbosa1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
    
 # Obrigado por visitar o meu perfil :wave:
 

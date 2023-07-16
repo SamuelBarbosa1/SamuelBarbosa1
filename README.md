@@ -5,14 +5,20 @@
 # Olá! Eu sou o Samuel Barbosa :smile: :books: :globe_with_meridians:
 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
+ ## :books: Tecnologias que estou estudando atualmente ##
+ <div>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+     <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+ </div>
+
+## :star: Tecnologias nas quais tenho maior conhecimento  ## 
 <div>
   <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />    
   <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
   <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 
-  ## :books: Tecnologias que também uso com frequência ##
+  ## :star: Tecnologias que também uso com frequência ##
  <img  src="https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
  <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
  <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />

@@ -31,7 +31,7 @@ Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
  <a href="https://www.linkedin.com/in/samueel-barbosa-36b6b7229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/samu_barbosa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href=""></a> 
-
+ </div>
 
 ## :white_check_mark: Minhas estatísticas ##
 

@@ -23,7 +23,6 @@ Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
  <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
  <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
  <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
- <img src="https://github.com/SamuelBarbosa1/SamuelBarbosa1/assets/130667350/b00ca39c-0c07-4c21-b8ed-121d01c3c17e" width="150px" align="right" borderRadius="100px" />  
    
 #####  Contatos:
 <div > 

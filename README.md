@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70F70&size=35&center=true&vCenter=true&width=1000&lines=Hello🤙🏻;Welcome+to+my+repository;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70F70&size=35&center=true&vCenter=true&width=1000&lines=Hello🤙🏻;Welcome+to+my+repository!;:%29)](https://git.io/typing-svg)
 
 # Hii! I'm Samuel Barbosa  🇧🇷. :smile: :books: :globe_with_meridians: 
 Always looking for learning and professional development!

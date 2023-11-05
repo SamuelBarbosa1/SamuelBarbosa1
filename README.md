@@ -5,11 +5,7 @@
 # Olá! Eu sou o Samuel Barbosa :smile: :books: :globe_with_meridians:
 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
- ## :books: Tecnologias que estou estudando atualmente ##
- <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-     <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
- </div>
+ 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento  ## 
 <div>

@@ -26,7 +26,7 @@ Always looking for learning and professional development!
  <a href=""></a> 
  </div>
 
-## :white_check_mark: Minhas estatísticas ##
+## :white_check_mark: My stats ##
 
 <div align="center">  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuelBarbosa1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 

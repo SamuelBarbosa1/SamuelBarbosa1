@@ -34,9 +34,9 @@ Always looking for learning and professional development!
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuelBarbosa1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBarbosa1&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
 
-# Obrigado por visitar o meu perfil :wave:
+# Thank you for visiting my profile :wave:
 
-### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
+### My main projects are below, go take a look.
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

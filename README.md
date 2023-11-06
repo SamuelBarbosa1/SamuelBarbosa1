@@ -5,6 +5,8 @@
 # Hii! I'm Samuel Barbosa  🇧🇷. :smile: :books: :globe_with_meridians: 
 Always looking for learning and professional development!
 
+I have another github where I post other projects for training:https://github.com/pewiebe
+
 ## :star: Tecnologies in which I have greater knowledge  ## 
 <div>
   <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />

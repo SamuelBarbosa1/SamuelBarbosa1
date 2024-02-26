@@ -8,7 +8,8 @@ Always looking for learning and professional development!
 
 I have another github where I post other projects for training
 
-<a href="https://github.com/https://github.com/pewiebe" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/pewiebe" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+
 
 
 ## :star: Tecnologies in which I have greater knowledge  ## 

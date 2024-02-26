@@ -5,7 +5,11 @@
 # Hii! I'm Samuel Barbosa  🇧🇷. :smile: :books: :globe_with_meridians: 
 Always looking for learning and professional development!
 
-I have another github where I post other projects for training:https://github.com/pewiebe
+
+I have another github where I post other projects for training
+
+<a href="https://github.com/https://github.com/pewiebe" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+
 
 ## :star: Tecnologies in which I have greater knowledge  ## 
 <div>
@@ -13,12 +17,22 @@ I have another github where I post other projects for training:https://github.co
   <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />    
   <img  src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" />
   <img  src="https://img.shields.io/badge/Github-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+
 
   ## :star: Technologies that I also use frequently ##
  <img  src="https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
  <img  src="https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
  <img  src="https://img.shields.io/badge/Javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
  <img  src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
    
 #####  Contacts :
 <div > 
@@ -26,6 +40,7 @@ I have another github where I post other projects for training:https://github.co
  <a href="https://www.linkedin.com/in/samuel-barbosa-de-oliveira-36b6b7229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/samu_barbosa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href=""></a> 
+
  </div>
 
 ## :white_check_mark: My stats ##

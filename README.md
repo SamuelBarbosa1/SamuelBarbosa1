@@ -40,7 +40,6 @@ Tenho outro github onde posto outros projetos para treinamento:
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBarbosa1&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
-# Obrigado por visitar meu perfil :wave:
 <div align="center">
  <h3>Obrigado por visitar meu perfil :wave:</h3>
     <p>Meus principais projetos estão abaixo, dê uma olhada.</p>

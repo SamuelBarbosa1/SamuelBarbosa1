@@ -22,15 +22,16 @@ Tenho outro github onde posto outros projetos para treinamento:
     <img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-007ACC?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" /> -->
+     <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 ## :star: Tecnologias que estou estudando atualmente
 <div align="center">
     <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" /> -->
 </div>
 
 

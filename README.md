@@ -22,12 +22,10 @@ Tenho outro github onde posto outros projetos para treinamento:
 <!--     <img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 <!--     <img src="https://img.shields.io/badge/Express.js-007ACC?style=for-the-badge&logo=express&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
     <img src="https://img.shields.io/badge/React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" /> 
     <img src="https://img.shields.io/badge/CSharp-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" />
-
-
 </div>
 
 ## :white_check_mark: Desempenho no GitHub 

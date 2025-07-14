@@ -4,7 +4,6 @@
 
 ## Olá! Eu sou Samuel Barbosa 🇧🇷. :smile: :books: :globe_with_meridians:
 📌Cursando o 1º semestre de Análise e desenvolvimento de sistemas - (UDF). <br>
-📌Cursando o 1º semestre de Técnico em informática - (ETB). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 Tenho outro github onde posto outros projetos para treinamento:

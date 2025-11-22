@@ -50,8 +50,8 @@ App mobile para controle financeiro pessoal, desenvolvido com **React Native + E
 ---
 
 ## 📫 Contato
-- LinkedIn: **https://www.linkedin.com/in/samuelbarbosa1**  
-- Email: **SEU EMAIL AQUI**  
+- LinkedIn: **https://www.linkedin.com/in/samuel-oliveira-4007602b9/**  
+- Email: **samuelbarbosa2001oliveira@gmail.com**  
 - GitHub: **@SamuelBarbosa1**
 
 ---

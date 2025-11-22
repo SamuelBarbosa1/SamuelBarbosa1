@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Samuel Barbosa</h1>
 
 <p align="center">
-  <i>Developer by day, tech enthusiast always.</i>
+  <i>Software developer by day, tech guru always.</i>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="25" height="25"/>
 </p>
 

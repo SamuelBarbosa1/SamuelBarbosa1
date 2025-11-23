@@ -5,6 +5,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="25" height="25"/>
 </p>
 
+portfólio: https://samuelbarbosadev.netlify.app/
 ---
 
 ## 🚀 Sobre mim

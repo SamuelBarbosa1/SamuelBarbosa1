@@ -12,7 +12,7 @@ portfólio: https://samueldev.live/
 Sou um desenvolvedor apaixonado por tecnologia e construção de soluções eficientes.  
 Tenho experiência com **backend**, **APIs**, **sistemas distribuídos** e **mobile**, sempre buscando escrever código limpo, performático e fácil de manter.
 
-Atualmente focado em Go, C#, TypeScript e arquiteturas modernas.
+Atualmente focado em Go, TypeScript e arquiteturas modernas.
 
 ---
 

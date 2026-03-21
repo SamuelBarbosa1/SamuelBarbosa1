@@ -1,25 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Samuel Barbosa</h1>
-
-<p align="center">
-  <i>Software developer by day, tech guru always.</i>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="25" height="25"/>
-</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="25" height="25"/>
 
 portfólio: https://samueldev.live/
----
-
-## 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e construção de soluções eficientes.  
-Tenho experiência com **backend**, **APIs**, **sistemas distribuídos** e **mobile**, sempre buscando escrever código limpo, performático e fácil de manter.
-
-Atualmente focado em Go, TypeScript e arquiteturas modernas.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-<img height="36rem" src="https://skillicons.dev/icons?i=go,cs,js,ts,react,reactnative,nodejs,python,mysql,postgres,docker,linux,git" />
-
----
 
 ## 📊 Estatísticas
 <div align="center">

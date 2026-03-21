@@ -21,18 +21,6 @@ Atualmente focado em Go, TypeScript e arquiteturas modernas.
 
 ---
 
-## 💼 Projetos em Destaque
-
-### 📱 **MeusGastos**
-App mobile para controle financeiro pessoal, desenvolvido com **React Native + Expo**.  
-- Gerenciamento de receitas e despesas  
-- Gráficos e relatórios  
-- Categorias personalizáveis  
-- Armazenamento local com AsyncStorage  
-🔗 *Disponível no GitHub*  
-
----
-
 ## 📊 Estatísticas
 <div align="center">
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelBarbosa1&theme=github_dark"/>

@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="25" height="25"/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SamuelBarbosa1/SamuelBarbosa1/main/assets/gif.gif" width="120"/>
+</div>
+
 portfólio: https://samuelbarbosa.vercel.app/
 
 ## 📊 Estatísticas
